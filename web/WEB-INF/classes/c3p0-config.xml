@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<default-config>
+		<property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql://8.134.186.126:3306/cs_accessories?serverTimezone=UTC&amp;useUnicode=true&amp;characterEncoding=utf-8</property>
+		<property name="user">CS_accessories</property>
+		<property name="password">Zyx132238</property>
+	</default-config>
+</c3p0-config>
